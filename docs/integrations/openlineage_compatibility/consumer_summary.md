@@ -3,4 +3,8 @@ sidebar_position: 1
 title: Consumer Summary
 ---
 
-_
+## Facets
+|Component (Version)|processing_engine|run_event|
+|-------------------|-----------------|---------|
+|      Dataplex     |        +        |    +    |
+
